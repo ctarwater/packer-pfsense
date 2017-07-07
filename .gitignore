@@ -8,5 +8,6 @@
 
 # Linux
 .directory
+*.swp
 
 *.old
